@@ -1,0 +1,5 @@
+platform:ios, '8.0'
+
+target 'KZCategory' do
+    pod 'KZReport',:git => 'git@github.com:huangkaizhan/KZReport.git'
+end
