@@ -113,6 +113,7 @@
 /* Begin PBXFileReference section */
 		32B125BD9B82377BED32C540 /* libPods-KZCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KZCategory.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4847686C226DC547000A1CB3 /* KZCategory.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = KZCategory.podspec; path = ../../KZCategory.podspec; sourceTree = "<group>"; };
+		4847686D226DC65E000A1CB3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		48CCF4F7226DAA0600AB01B0 /* KZCategory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KZCategory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48CCF4FA226DAA0600AB01B0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		48CCF4FB226DAA0600AB01B0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -235,6 +236,7 @@
 			isa = PBXGroup;
 			children = (
 				4847686C226DC547000A1CB3 /* KZCategory.podspec */,
+				4847686D226DC65E000A1CB3 /* README.md */,
 				48EE56EA226DACD400EA9EA1 /* Demo */,
 				48EE56EB226DACDC00EA9EA1 /* Classes */,
 				48CCF4FA226DAA0600AB01B0 /* AppDelegate.h */,

@@ -98,7 +98,7 @@ ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/Header/**/*.{h,m}'
 end
 
 s.subspec 'ArrayAndDictionary' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/ArrayAndDictionary/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/ArrayAndDictionary/**/*.{h,m}'
 end
 
 s.subspec 'AVAsset' do |ss|
