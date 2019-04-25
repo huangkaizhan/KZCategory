@@ -94,7 +94,7 @@ s.source       = { :git => "git@github.com:huangkaizhan/KZCategory.git"}
 #s.exclude_files = "Classes/Exclude"
 
 s.subspec 'Header' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/Header/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/Header/**/*.{h,m}'
 end
 
 s.subspec 'ArrayAndDictionary' do |ss|
@@ -102,64 +102,64 @@ ss.source_files = 'KZCategory/KZCategory/Classes/ArrayAndDictionary/**/*.{h,m}'
 end
 
 s.subspec 'AVAsset' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/AVAsset/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/AVAsset/**/*.{h,m}'
 end
 
 s.subspec 'UIColor' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UIColor/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UIColor/**/*.{h,m}'
 end
 
 s.subspec 'UIView' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UIView/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UIView/**/*.{h,m}'
 end
 
 s.subspec 'UINavigationController' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UINavigationController/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UINavigationController/**/*.{h,m}'
 end
 
 s.subspec 'UIImage' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UIImage/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UIImage/**/*.{h,m}'
 end
 
 s.subspec 'UILabel' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UILabel/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UILabel/**/*.{h,m}'
 end
 
 s.subspec 'UIButton' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UIButton/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UIButton/**/*.{h,m}'
 end
 
 s.subspec 'UIImageView' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UIImageView/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UIImageView/**/*.{h,m}'
 end
 
 s.subspec 'NSString' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/NSString/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/NSString/**/*.{h,m}'
 ss.requires_arc = false
 end
 
 s.subspec 'NSDate' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/NSDate/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/NSDate/**/*.{h,m}'
 end
 
 s.subspec 'UIViewController' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UIViewController/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UIViewController/**/*.{h,m}'
 end
 
 s.subspec 'UIBarButtonItem' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UIBarButtonItem/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UIBarButtonItem/**/*.{h,m}'
 end
 
 s.subspec 'UINavigationItem' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UINavigationItem/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UINavigationItem/**/*.{h,m}'
 end
 
 s.subspec 'UITableViewCell' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UITableViewCell/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UITableViewCell/**/*.{h,m}'
 end
 
 s.subspec 'UITextField' do |ss|
-ss.source_files = 'KZCategory/KZCategory/KZCategory/Classes/UITextField/**/*.{h,m}'
+ss.source_files = 'KZCategory/KZCategory/Classes/UITextField/**/*.{h,m}'
 end
 
 
@@ -175,7 +175,7 @@ end
 #
 
 # s.resource  = "icon.png"
-s.resources = "KZCategory/KZCategory/KZCategory/Classes/Category_kz.bundle"
+s.resources = "KZCategory/KZCategory/Classes/Category_kz.bundle"
 
 # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
