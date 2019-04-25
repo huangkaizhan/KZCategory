@@ -162,6 +162,10 @@ s.subspec 'UITextField' do |ss|
 ss.source_files = 'KZCategory/KZCategory/Classes/UITextField/**/*.{h,m}'
 end
 
+s.subspec 'NSObject' do |ss|
+ss.source_files = 'KZCategory/KZCategory/Classes/NSObject/**/*.{h,m}'
+end
+
 
 # s.public_header_files = "Classes/**/*.{h,m}"
 
